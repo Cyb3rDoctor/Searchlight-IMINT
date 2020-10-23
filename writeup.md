@@ -23,15 +23,15 @@
 
 # Quick Navigation:
 
-- **[Task 1](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-1)**
-- **[Task 2](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-2)**
-- **[Task 3](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-3)**
-- **[Task 4](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-4)**
-- **[Task 5](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-5)**
-- **[Task 6](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-6)**
-- **[Task 7](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-7)**
-- **[Task 8](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-8)**
-- **[Task 9](https://github.com/Cyb3rDoctor/Searchlight-IMINT/new/main#task-9)**
+- **[Task 1](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-1)**
+- **[Task 2](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-2)**
+- **[Task 3](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-3)**
+- **[Task 4](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-4)**
+- **[Task 5](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-5)**
+- **[Task 6](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-6)**
+- **[Task 7](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-7)**
+- **[Task 8](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-8)**
+- **[Task 9](https://github.com/Cyb3rDoctor/Searchlight-IMINT/blob/main/writeup.md#task-9)**
 
 <br/><br/>
 
