@@ -132,7 +132,7 @@ To solve the next question, you need to focus on the challenge image, then zoom 
 ![image](https://user-images.githubusercontent.com/70543460/96923593-2f010280-14ba-11eb-8c84-40698c9b4531.png)
 <br/><br/>
 
-That word can be used as a searh keyword too!
+That word can be used as a search keyword too!
 
 So, search for **(London Underground Circus)**, and you will find the answer:
 
