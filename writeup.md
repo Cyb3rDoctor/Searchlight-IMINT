@@ -308,11 +308,11 @@ So, the answer of the first question is: **allan st**.
 
 And the answer of the second question is: **+447878 839128**
 
-sl{+447878 839128}
+**sl{+447878 839128}**
 
 And the answer of the fifth question is: **blairgowrie**
 
-sl{blairgowrie}
+**sl{blairgowrie}**
 
 <br/><br/>
 
