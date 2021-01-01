@@ -604,4 +604,5 @@ And to find the hotel, check the street view spots...
 
 <br/><br/>
 
-![image](https://user-images.githubusercontent.com/70543460/97002950-62d43a80-1543-11eb-8adc-5aad15ba3868.png)
+![image](https://user-images.githubusercontent.com/70543460/103438256-150e3980-4c3a-11eb-9cc0-8d0da1239b21.png)
+
