@@ -600,7 +600,7 @@ And to find the hotel, check the street view spots...
 
 <br/><br/>
 
-**sl{hotel novotel singapore clarke quay}**
+**sl{novotel singapore clarke quay}**
 
 <br/><br/>
 
