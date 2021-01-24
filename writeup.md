@@ -211,11 +211,11 @@ And all the answers of the questions are in that Wikipedia page:
 
 **sl{canada}**
 
-**sl{vancouver}**
+**sl{richmond}**
 
 <br/><br/>
 
-![image](https://user-images.githubusercontent.com/70543460/96927384-a38a7000-14bf-11eb-891d-c38cbe04be10.png)
+![image](https://user-images.githubusercontent.com/70543460/105628976-f40bc380-5e48-11eb-9810-971098533fcb.png)
 
 <br/><br/>
 
